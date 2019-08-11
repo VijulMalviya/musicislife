@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.landingfoot{
+    position: fixed;
+    opacity: 1;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+  
+    animation: landingfoot 5.5s ease-in-out forwards;
+}
+.content{
+    margin-top: 50%;
+    animation: content 2s ease-in-out forwards;
+}
+.navigation{
+    margin-top: -10%;
+    animation: navigation 2s ease-in-out forwards;
+}
+

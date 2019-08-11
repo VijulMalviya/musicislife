@@ -1,0 +1,26 @@
+@keyframes landingfoot {
+    from{
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
+
+@keyframes content {
+    from{
+        margin-top: 50%;
+    }
+    to{
+        margin-top: 0;
+    }
+}
+@keyframes navigation {
+    from{
+        margin-top: -10%;
+    }
+    to{
+        margin-top: 0%;
+    }
+}
+
